@@ -240,6 +240,9 @@ Hash:
 
 ### Environment Variables
 
+The application supports both Claude Sonnet 4.0 and 4.5 models
+via the `BEDROCK_MODEL_ID` environment variable.
+
 **Backend**
 
 ```env

@@ -146,6 +146,7 @@ docker-compose.yml
 | **Cost Calculation: Bedrock Token Pricing** | Real AWS costs demonstrate actual savings                                            | 2025-11-07 |
 | **Only Embed Questions**                    | Search for similar questions, not answers. More efficient.                           | 2025-11-07 |
 | **Progress.md + README.md**                 | README for external audience, Progress.md for development tracking                   | 2025-11-07 |
+| **Configurable LLM Model**                  | Support Sonnet 4.0 and 4.5 via environment variable for deployment flexibility       | 2025-11-11 |
 
 ---
 
